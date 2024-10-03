@@ -1,7 +1,9 @@
 # Assets
 
-<img src="./SVG/Logos/Logo-1.svg" width=64>
+### Logos
+
+<img src="./SVG/Logos/Logos.svg" width=128>
 
 ### Colors
 
-<img src="./SVG/Colors.svg" width=512>
+<img src="./SVG/Logos/Colors.svg" width=128>
