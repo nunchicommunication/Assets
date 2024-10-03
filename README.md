@@ -1,7 +1,5 @@
 # Assets
 
-This repository contains assets for branding and visual design, organized into PNG and SVG formats.
-
 ## Logos
 
 <img src="./SVG/Logos.svg" alt="Logos" width=512>
