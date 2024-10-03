@@ -2,8 +2,8 @@
 
 ### Logos
 
-<img src="./SVG/Logos/Logos.svg" width=128>
+<img src="./SVG/Logos.svg" width=512>
 
 ### Colors
 
-<img src="./SVG/Logos/Colors.svg" width=128>
+<img src="./SVG/Colors.svg" width=512>
